@@ -1,16 +1,22 @@
-## Hi there 👋
+## Software Developer
 
-<!--
-**HugoNechai/HugoNechai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on backend systems, APIs, and automation.
 
-Here are some ideas to get you started:
+Experienced in building full-stack platforms and production-oriented applications with an emphasis on clean architecture and reliable system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+Backend: Python, .NET, C#, FastAPI  
+Databases: PostgreSQL, MySQL, SQLite  
+Frontend: React, TypeScript  
+DevOps / Tools: Docker, Git  
+
+---
+
+### Featured Projects
+
+• Full-Stack Quiz Builder — platform for creating and managing dynamic quizzes  
+• Container Yard Management System — logistics platform with role-based workflows  
+• Event & Food Ordering Platform — full-stack system supporting operational processes
